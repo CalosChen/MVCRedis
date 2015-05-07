@@ -1,0 +1,9 @@
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\RedisCache.dll
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\RedisCache.pdb
+E:\Source\MyWorks\RedisCache\RedisCache\obj\Debug\RedisCache.dll
+E:\Source\MyWorks\RedisCache\RedisCache\obj\Debug\RedisCache.pdb
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\ServiceStack.Common.dll
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\ServiceStack.Interfaces.dll
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\ServiceStack.Redis.dll
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\ServiceStack.Text.dll
+E:\Source\MyWorks\RedisCache\RedisCache\bin\Debug\csredis.dll
